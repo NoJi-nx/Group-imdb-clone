@@ -1,0 +1,36 @@
+
+.top-rated-container {
+    position: absolute;
+    top: 150px;
+    right: 250px;
+
+    height: 200px; /* Set the desired height */
+  }
+
+  .top-rated-container li {
+    height: 140px; /* Set the desired height */
+    width: 580px;
+
+  }
+
+  .top-rated-container h3{
+    margin-left: 150px;
+  }
+
+  .top-rated-container button{
+    margin-bottom: -85px;
+    margin-left: -100px;
+  }
+
+  .watchlist-container {
+    margin-bottom: -1100px;
+    margin-left: 790px;
+  }
+
+
+  #carousel {
+    width: 60%;
+    margin-left: -750px;
+    top: 420px;
+    padding: 1rem;
+  }
